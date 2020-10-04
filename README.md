@@ -6,9 +6,6 @@ This repository contains practical examples of machine learning models on cloud 
 The project was part of the AICamp Full Stack Machine Learning for Developers course. </li>
 
 <i>       </i>
-<i>       </i>
-<i>       </i>
-<i>       </i>
 
 
 <i> The preinstalled environment for training the models on a computer includes the Anaconda installation listed in the environment.yml file and Python 3.7. </i>
