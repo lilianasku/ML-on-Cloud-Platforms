@@ -2,7 +2,6 @@
 from sklearn.neighbors import KNeighborsClassifier
 from xgboost import XGBClassifier
 
-#running different scikit machine learning models
 def run_ml_model(xtrain,ytrain,xtest,ytest, model):
     inst={ 'knn': KNeighborsClassifier(),
            'xgboost': XGBClassifier()} [value]
